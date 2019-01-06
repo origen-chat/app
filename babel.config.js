@@ -18,7 +18,7 @@ function getPresets(babelEnv) {
         useBuiltIns: false,
       },
     ],
-    '@babel/preset-react',
+    ['@babel/preset-react', { development: babelEnv === 'development' }],
     '@babel/preset-typescript',
   ];
 

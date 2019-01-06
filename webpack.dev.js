@@ -87,6 +87,7 @@ const webpackDevConfig = merge(webpackCommonConfig, {
     disableHostCheck: true,
     port: 3000,
     hot: true,
+    https: true,
     contentBase: path.resolve(__dirname, 'public'),
     publicPath: '/',
     inline: true,
