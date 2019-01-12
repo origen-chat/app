@@ -1,6 +1,6 @@
 {
-  "name": "loop-web",
-  "version": "2.0.0",
+  "name": "@origen/app",
+  "version": "1.0.0",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -10,7 +10,10 @@
     "generate-graphql-types": "apollo codegen:generate --addTypename --queries=src/**/*.tsx --target=typescript --schema=../api/schema.json __generatedTypes__",
     "pregenerate-graphql-types": "yarn clean-graphql-types",
     "clean-graphql-types": "rimraf __generatedTypes__",
-    "storybook": "start-storybook --host 0.0.0.0 --port 9001 --config-dir .storybook --ci",
+    "storybook": "start-storybook --host 0.0.0.0 --port 9001 --config-dir .storybook --https --ssl-cert ./keys/cert.pem --ssl-key ./keys/key.pem",
+    "make-keys": "mkcert localhost 127.0.0.1 ::1 app.local.origen.chat 0.0.0.0",
+    "premake-keys": "rimraf keys",
+    "postmake-keys": "mkdirp keys && mv localhost+4.pem keys/cert.pem && mv localhost+4-key.pem keys/key.pem",
     "test": "cross-env NODE_ENV=test jest",
     "test:watch": "yarn test --onlyChanged --watch",
     "test:ci": "yarn test --coverage",
