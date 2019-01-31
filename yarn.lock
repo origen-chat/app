@@ -2688,10 +2688,10 @@
   resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.0.tgz#ce45c2c61b3e510f907cc84941c8cdb99f089b6a"
   integrity sha512-6FCz2E3SrkgbuV3piRNfjThSRyMbcIxHknnGYPfrg4k55PHnNRR80boVdl1AME/KfDW+FBVmKrKPyRbFo8HjaQ==
 
-"@types/react-beautiful-dnd@10.0.1":
-  version "10.0.1"
-  resolved "https://registry.yarnpkg.com/@types/react-beautiful-dnd/-/react-beautiful-dnd-10.0.1.tgz#8be4449a2f7843433542c97fcf18333383cc3e24"
-  integrity sha512-RA3mPgJFJP+zpkhVQL9T2SIkFDbtPx+R09hApQt2BvBUHYpiLaO3PygmnPgcDwCAultn3l+8jABbnVgOFtvZTg==
+"@types/react-beautiful-dnd@10.0.2":
+  version "10.0.2"
+  resolved "https://registry.yarnpkg.com/@types/react-beautiful-dnd/-/react-beautiful-dnd-10.0.2.tgz#5e8bfc3d556b727a2a254218eb2f2c34c1d751c8"
+  integrity sha512-ssJD0OcyGijjr6wTHfeh4dZ8+7LcSx3clT43nLtPnMmC/3bYZ1pZV3U8Ca2Ry6BmCo0yWn/9gMoPoI8REFlaRQ==
   dependencies:
     "@types/react" "*"
 
