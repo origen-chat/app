@@ -97,7 +97,7 @@
     "@types/styled-components": "4.1.7",
     "@types/uuid": "3.4.4",
     "@types/webpack": "4.4.24",
-    "apollo": "2.4.0",
+    "apollo": "2.4.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "10.0.1",
     "babel-jest": "23.6.0",
