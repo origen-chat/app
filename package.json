@@ -145,7 +145,7 @@
     "thread-loader": "2.1.2",
     "typescript": "3.3.1",
     "typescript-eslint-parser": "21.0.2",
-    "webpack": "4.29.0",
+    "webpack": "4.29.1",
     "webpack-cli": "3.2.1",
     "webpack-dev-server": "3.1.14",
     "webpack-merge": "4.2.1",
