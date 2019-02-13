@@ -76,7 +76,7 @@
     "@svgr/webpack": "4.1.0",
     "@types/enzyme": "3.1.18",
     "@types/enzyme-adapter-react-16": "1.0.4",
-    "@types/graphql": "14.0.6",
+    "@types/graphql": "14.0.7",
     "@types/jest": "23.3.14",
     "@types/node": "10.12.26",
     "@types/ramda": "0.26.0",
