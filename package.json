@@ -91,7 +91,7 @@
     "@types/redux-immutable-state-invariant": "2.1.0",
     "@types/redux-logger": "3.0.7",
     "@types/storybook__addon-a11y": "3.3.1",
-    "@types/storybook__addon-actions": "3.4.1",
+    "@types/storybook__addon-actions": "3.4.2",
     "@types/storybook__addon-knobs": "4.0.0",
     "@types/storybook__react": "4.0.0",
     "@types/styled-components": "4.1.9",
