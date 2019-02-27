@@ -94,7 +94,7 @@
     "@types/storybook__addon-actions": "3.4.2",
     "@types/storybook__addon-knobs": "4.0.1",
     "@types/storybook__react": "4.0.1",
-    "@types/styled-components": "4.1.10",
+    "@types/styled-components": "4.1.11",
     "@types/uuid": "3.4.4",
     "@types/webpack": "4.4.25",
     "apollo": "2.5.3",
