@@ -3066,10 +3066,10 @@
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.5.6.tgz#9c03d3fed70a8d517c191b7734da2879b50ca26c"
   integrity sha512-ZBFR7TROLVzCkswA3Fmqq+IIJt62/T7aY/Dmz+QkU7CaW2QFqAitCE8Ups7IzmGhcN1YWMBT4Qcoc07jU9hOJQ==
 
-"@types/ramda@0.26.1":
-  version "0.26.1"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.1.tgz#767ca00d1b78ee8f77700fd5840e4259806d04f6"
-  integrity sha512-rvHuym7ZBYntRnA7W0qoBIQsomVYCamgKz5KD55Y1e94FeJv8UgBH102PylOUUCcyeEdQ1MwnsnP7K8yKlMstA==
+"@types/ramda@0.26.2":
+  version "0.26.2"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.2.tgz#8ab1592e17185a7008d88e90dedc22687a558da7"
+  integrity sha512-YHNjbdhw9qvRRcz97nfkVRatAowJ5lyIBxzWALSaEwdEKB5UJCwpfJILRwUY3IxHyIDXVaprgNkAZJCQ6/AQcQ==
 
 "@types/react-beautiful-dnd@10.0.3":
   version "10.0.3"
