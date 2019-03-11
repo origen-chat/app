@@ -40,7 +40,7 @@
     "ramda": "0.26.1",
     "react": "16.8.4",
     "react-apollo": "2.5.2",
-    "react-beautiful-dnd": "10.0.4",
+    "react-beautiful-dnd": "10.1.0",
     "react-dom": "16.8.4",
     "react-ga": "2.5.7",
     "react-helmet": "5.2.0",
