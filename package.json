@@ -47,7 +47,7 @@
     "react-intl": "2.8.0",
     "react-redux": "6.0.1",
     "react-router-dom": "4.4.0-beta.8",
-    "react-transition-group": "2.7.1",
+    "react-transition-group": "2.8.0",
     "redux": "4.0.1",
     "redux-actions": "2.6.5",
     "redux-devtools-extension": "2.13.8",
