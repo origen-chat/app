@@ -86,7 +86,7 @@
     "@types/react-helmet": "5.0.8",
     "@types/react-intl": "2.3.17",
     "@types/react-redux": "6.0.14",
-    "@types/react-router-dom": "4.3.2",
+    "@types/react-router-dom": "4.3.3",
     "@types/react-transition-group": "2.9.1",
     "@types/redux-immutable-state-invariant": "2.1.0",
     "@types/redux-logger": "3.0.7",
