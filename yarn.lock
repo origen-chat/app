@@ -3961,10 +3961,10 @@
   resolved "https://registry.yarnpkg.com/@types/webpack-env/-/webpack-env-1.13.6.tgz#128d1685a7c34d31ed17010fc87d6a12c1de6976"
   integrity sha512-5Th3OsZ4gTRdr9Mho83BQ23cex4sRhOR4XTG+m+cJc0FhtUBK9Vn62hBJ+pnQYnSxoPOsKoAPOx6FcphxBC8ng==
 
-"@types/webpack@4.4.31":
-  version "4.4.31"
-  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.4.31.tgz#f59b9d8210cf4d2fd254fe6d1f5ba86e557867f5"
-  integrity sha512-WNALmv/wxy2+OoF7A5GD8BVotXnkuMHlojVWKj/neFHU3Ut2Azbu1A7Yi2Vr6eX3z+31XgR/dJ5NpX4pQZ7ieQ==
+"@types/webpack@4.4.32":
+  version "4.4.32"
+  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.4.32.tgz#2d460cd33a15e568e93f38de5e628cf846396c51"
+  integrity sha512-mNARoaSJTzbiHxtZbf9NULFilu2frqD+g9Iyl9V2jPYJWXi+AC3Hz8lQWPZ5LLtgUm7iF4SDDMB/1bPrbRQgFw==
   dependencies:
     "@types/anymatch" "*"
     "@types/node" "*"
