@@ -3853,10 +3853,10 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/redux-immutable-state-invariant@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@types/redux-immutable-state-invariant/-/redux-immutable-state-invariant-2.1.0.tgz#b88d3f49c8187aba691313bd8263f2dd5a41f45c"
-  integrity sha512-QmzPRr4YVC4S7XRORufWopi6B+8c0v/xevSK58iEpwUNIiTKG6RUyZPHtTlUdNQ6S/wHoeNHYRGPh8ryv3b/1Q==
+"@types/redux-immutable-state-invariant@2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@types/redux-immutable-state-invariant/-/redux-immutable-state-invariant-2.1.1.tgz#8231007e9f370d2f5eb28b71c6a4d4b141973338"
+  integrity sha512-eosvcaKraeX8fyEKViFZ2vh3xSWF8teCSw+mEMjlwoN0Ai6ZAevczQr3YyZxZFfwH1LXUiV3aXcSAlsNKAnjNg==
   dependencies:
     redux "^3.6.0 || ^4.0.0"
 
