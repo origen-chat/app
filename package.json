@@ -74,7 +74,7 @@
     "@storybook/addon-knobs": "4.1.18",
     "@storybook/react": "4.1.18",
     "@svgr/webpack": "4.3.2",
-    "@types/enzyme": "3.10.1",
+    "@types/enzyme": "3.10.3",
     "@types/enzyme-adapter-react-16": "1.0.5",
     "@types/graphql": "14.2.2",
     "@types/jest": "23.3.14",
