@@ -34,7 +34,7 @@
     "apollo-link-error": "1.1.11",
     "apollo-link-http": "1.5.15",
     "apollo-link-ws": "1.0.18",
-    "graphql": "14.4.1",
+    "graphql": "14.4.2",
     "graphql-tag": "2.10.1",
     "idb-keyval": "3.2.0",
     "ramda": "0.26.1",
