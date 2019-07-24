@@ -140,7 +140,7 @@
     "prettier": "1.18.2",
     "prettier-eslint": "8.8.2",
     "prettier-eslint-cli": "4.7.1",
-    "react-hot-loader": "4.12.8",
+    "react-hot-loader": "4.12.9",
     "react-test-renderer": "16.8.6",
     "thread-loader": "2.1.2",
     "typescript": "3.5.3",
