@@ -56,7 +56,7 @@
     "redux-saga": "0.16.2",
     "styled-components": "4.3.2",
     "subscriptions-transport-ws": "0.9.16",
-    "uuid": "3.3.2"
+    "uuid": "3.3.3"
   },
   "devDependencies": {
     "@babel/core": "7.5.5",
