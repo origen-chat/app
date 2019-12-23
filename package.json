@@ -110,7 +110,7 @@
     "cross-env": "5.2.1",
     "danger": "7.1.4",
     "enzyme": "3.11.0",
-    "enzyme-adapter-react-16": "1.15.1",
+    "enzyme-adapter-react-16": "1.15.2",
     "eslint": "5.16.0",
     "eslint-config-airbnb": "17.1.1",
     "eslint-config-prettier": "3.6.0",
