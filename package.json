@@ -75,7 +75,7 @@
     "@storybook/react": "4.1.18",
     "@svgr/webpack": "4.3.3",
     "@types/enzyme": "3.10.5",
-    "@types/enzyme-adapter-react-16": "1.0.5",
+    "@types/enzyme-adapter-react-16": "1.0.6",
     "@types/graphql": "14.2.3",
     "@types/jest": "23.3.14",
     "@types/node": "10.17.13",
